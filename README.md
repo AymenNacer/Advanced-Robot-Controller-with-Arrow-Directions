@@ -1,6 +1,6 @@
 # Advanced-Robot-Controller-with-Arrow-Directions
 
-Robot controller to store paths of defined directions and distance and display the path with arrow directions,it stores the robot controller instructions in a 2database
+Robot controller to store paths of defined directions and distance and display the path with arrow directions, it stores the robot controller instructions in a database
 
 The form in index.php includes:
 Order of Directions(3 Letters in capital, such as FLR): should be defined before drawing the path, because FLR is not same as FRL
