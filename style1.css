@@ -1,0 +1,48 @@
+body {
+	background-color: #82b74b; 
+}
+
+
+input{
+	margin: 10px;
+
+
+}
+
+.inputT{
+margin-left: 285px;
+
+}
+.inputR{
+	margin-left:312px;
+}
+
+.inputL{
+	margin-left:320px;
+}
+
+.inputF{
+	margin-left:287px;
+}
+
+.wrapper {
+    height: 27px;
+    width: 50px;
+    padding: 3px;
+    box-sizing: border-box;
+    position: absolute;
+    top:220px;
+    left:220px;
+}
+
+.wrapper button {
+    height: 100%;
+    width: 100%;
+}
+
+
+table, th, td {
+  border: 1px solid red;
+    border-collapse: collapse;
+
+}
