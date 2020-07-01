@@ -56,7 +56,7 @@ button.addEventListener("click" , function(){
 
 	}
 
-	// till now is good
+	
 	if (str[2]=="R"){
 		if(endOf[2]=="R"){
 			canvas_arrow(ctx, endOf[0], endOf[1], endOf[0], endOf[1] + Right);
