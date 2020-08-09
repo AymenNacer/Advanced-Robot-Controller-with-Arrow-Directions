@@ -1,4 +1,4 @@
-# Auto-Robot-Controller-with-Arrow-Directions
+# Auto-Control-Panel-with-Arrow-Directions-for-Robots
 
 Robot controller to store paths of defined directions and distance and display the path with arrow directions, it stores the robot controller instructions in a database
 
