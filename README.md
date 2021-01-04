@@ -1,6 +1,6 @@
 # Auto-Control-Panel-with-Arrow-Directions-for-Robots
 
-Robot control panel to store paths of defined directions and distance and display the path with arrow directions, it stores the robot control panel instructions in a database.
+(Smart Methods Internship) Robot control panel to store paths of defined directions and distance and display the path with arrow directions, it stores the robot control panel instructions in a database.
 
 
 The form in index.php includes:
